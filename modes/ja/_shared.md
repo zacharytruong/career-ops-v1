@@ -1,5 +1,9 @@
 # 共通コンテキスト -- career-ops（日本語）
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 <!-- ============================================================
      THIS FILE IS AUTO-UPDATABLE. Don't put personal data here.
 

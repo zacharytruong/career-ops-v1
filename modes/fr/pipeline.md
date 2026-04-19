@@ -1,5 +1,9 @@
 # Mode : pipeline -- Inbox d'URLs (Second Brain)
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 Traite les URLs d'offres accumulees dans `data/pipeline.md`. Le candidat ajoute des URLs quand il veut et lance ensuite `/career-ops pipeline` pour toutes les traiter d'un coup.
 
 ## Workflow

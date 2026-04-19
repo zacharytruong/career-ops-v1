@@ -1,5 +1,9 @@
 # Режим: oferta — Полная оценка A-F
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 Когда кандидат вставляет вакансию (текст или URL), ВСЕГДА выдать 6 блоков:
 
 ## Шаг 0 — Определение архетипа

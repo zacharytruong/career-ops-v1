@@ -1,5 +1,8 @@
 # Mode: contacto -- LinkedIn Power Move
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
 1. **Identify targets** via WebSearch:
    - Hiring manager of the team
    - Assigned recruiter

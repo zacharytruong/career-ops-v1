@@ -1,5 +1,8 @@
 # Mode: oferta -- Complete A-G Evaluation
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
 When the candidate pastes an offer (text or URL), ALWAYS deliver the 7 blocks (A-F evaluation + G legitimacy):
 
 ## Step 0 — Archetype Detection

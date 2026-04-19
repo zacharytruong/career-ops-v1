@@ -1,5 +1,9 @@
 # Modo: oferta -- Avaliacao Completa A-F
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 Quando o candidato cola uma vaga (texto ou URL), entregar SEMPRE os 6 blocos:
 
 ## Passo 0 -- Deteccao de Arquetipo

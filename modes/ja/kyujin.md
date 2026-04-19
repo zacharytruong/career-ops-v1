@@ -1,5 +1,9 @@
 # モード: kyujin -- 完全評価 A-F
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 候補者が求人（テキストまたは URL）を貼り付けたら、必ず 6 ブロックすべてを出力する：
 
 ## ステップ 0 -- アーキタイプ検出

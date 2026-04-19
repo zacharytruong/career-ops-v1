@@ -1,5 +1,9 @@
 # Contexte partage -- career-ops (Francais)
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 <!-- ============================================================
      PERSONNALISATION DE CE FICHIER
      ============================================================

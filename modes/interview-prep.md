@@ -1,5 +1,8 @@
 # Mode: interview-prep — Company-Specific Interview Intelligence
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
 When the user asks to prep for an interview at a specific company+role, or when an evaluation scores 4.0+ and the user updates status to `Interview`, run this mode.
 
 ## Inputs

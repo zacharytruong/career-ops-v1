@@ -1,5 +1,8 @@
 # Mode: auto-pipeline -- Complete Automatic Pipeline
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
 When the user pastes a JD (text or URL) with no explicit sub-command, execute the ENTIRE pipeline in sequence:
 
 ## Step 0 — Extract JD

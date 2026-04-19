@@ -1,5 +1,9 @@
 # Общий контекст — career-ops (Русский)
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 <!-- ============================================================
      ЭТОТ ФАЙЛ — СИСТЕМНЫЙ.
      НЕ добавляйте сюда персональные данные.

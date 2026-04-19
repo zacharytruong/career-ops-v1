@@ -1,5 +1,9 @@
 # Modo: oferta -- Evaluacion Completa A-F
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 Cuando el candidato pega una oferta de empleo (texto o URL), siempre genera los 6 bloques completos:
 
 ## Paso 0 -- Deteccion de Arquetipo

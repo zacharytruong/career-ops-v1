@@ -1,5 +1,9 @@
 # Режим: interview-prep — Подготовка к собеседованию
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 Когда пользователь просит подготовиться к собеседованию в конкретной компании, или оценка ≥ 4.0 и статус обновлён на `Interview`.
 
 ## Входные данные

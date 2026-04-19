@@ -1,5 +1,8 @@
 # Mode: scan -- Portal Scanner (Offer Discovery)
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
 Scans configured job portals, filters by title relevance, and adds new offers to the pipeline for later evaluation.
 
 ## Recommended Execution

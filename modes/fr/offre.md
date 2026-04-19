@@ -1,5 +1,9 @@
 # Mode : offre -- Evaluation complete A-F
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 Quand le candidat colle une offre (texte ou URL), TOUJOURS livrer les 6 blocs.
 
 ## Etape 0 -- Detection d'archetype

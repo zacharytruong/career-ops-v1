@@ -1,5 +1,9 @@
 # Режим: pipeline — Очередь URL (Second Brain)
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 Обрабатывает URL вакансий из `data/pipeline.md`. Пользователь добавляет URL когда угодно, затем запускает `/career-ops pipeline` для обработки.
 
 ## Workflow

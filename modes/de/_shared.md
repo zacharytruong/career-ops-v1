@@ -1,5 +1,9 @@
 # Geteilter Kontext -- career-ops (Deutsch)
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 <!-- ============================================================
      ANPASSEN DIESER DATEI
      ============================================================

@@ -1,5 +1,9 @@
 # Modus: angebot — Vollständige Bewertung A-F
 
+## Web Search Routing
+
+See [modes/_websearch-routing.md](modes/_websearch-routing.md) for model-aware routing.
+
 Wenn der Kandidat eine Stellenanzeige einfügt (Text oder URL), IMMER alle 6 Blöcke liefern.
 
 ## Schritt 0 — Archetyp-Erkennung
