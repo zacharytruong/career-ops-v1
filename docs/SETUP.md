@@ -13,8 +13,8 @@
 ```bash
 git clone https://github.com/santifer/career-ops.git
 cd career-ops
-npm install
-npx playwright install chromium   # Required for PDF generation
+bun install
+bunx playwright install chromium   # Required for PDF generation
 ```
 
 ### 2. Configure your profile
@@ -31,7 +31,15 @@ Create `cv.md` in the project root with your full CV in markdown format. This is
 
 (Optional) Create `article-digest.md` with proof points from your portfolio projects/articles.
 
-### 4. Configure portals
+### 4. Set up your profile
+
+```bash
+cp modes/_profile.template.md modes/_profile.md
+```
+
+Edit `modes/_profile.md` to customize archetypes, scoring weights, narrative framing, and negotiation scripts. This file is your personalization layer — system updates will never overwrite it.
+
+### 6. Configure portals
 
 ```bash
 cp templates/portals.example.yml portals.yml
@@ -42,7 +50,7 @@ Edit `portals.yml`:
 - Add companies you want to track in `tracked_companies`
 - Customize `search_queries` for your preferred job boards
 
-### 5. Start using
+### 7. Start using
 
 Open Claude Code in this directory:
 
@@ -67,8 +75,8 @@ Then paste a job offer URL or description. Career-ops will automatically evaluat
 ## Verify Setup
 
 ```bash
-node cv-sync-check.mjs      # Check configuration
-node verify-pipeline.mjs     # Check pipeline integrity
+bun run sync-check      # Check configuration
+bun run verify          # Check pipeline integrity
 ```
 
 ## Build Dashboard (Optional)

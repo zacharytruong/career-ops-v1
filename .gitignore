@@ -27,6 +27,7 @@ modes/_profile.md
 .resolved-prompt-*
 node_modules/
 bun.lock
+repomix-output.xml
 
 # OS
 .DS_Store
@@ -38,3 +39,4 @@ bun.lock
 .claude/memory/
 career-dashboard
 package-lock.json
+bun.lock
