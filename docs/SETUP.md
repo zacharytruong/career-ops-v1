@@ -39,7 +39,7 @@ cp modes/_profile.template.md modes/_profile.md
 
 Edit `modes/_profile.md` to customize archetypes, scoring weights, narrative framing, and negotiation scripts. This file is your personalization layer — system updates will never overwrite it.
 
-### 6. Configure portals
+### 5. Configure portals
 
 ```bash
 cp templates/portals.example.yml portals.yml
@@ -50,7 +50,7 @@ Edit `portals.yml`:
 - Add companies you want to track in `tracked_companies`
 - Customize `search_queries` for your preferred job boards
 
-### 7. Start using
+### 6. Start using
 
 Open Claude Code in this directory:
 

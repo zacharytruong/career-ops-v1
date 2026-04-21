@@ -142,7 +142,7 @@ Format:
 - Key proof points to emphasize
 - Narrative framing adjustments
 
-### Block F: Interview Prep
+### Block F: Interview Plan
 
 STAR+R stories relevant to this role:
 - Situation (1-2 sentences)
@@ -158,6 +158,17 @@ Auto-assessed tier:
 - **Tier 2**: LinkedIn/Indeed, standard JD
 - **Tier 3**: Third-party posting, some ambiguity
 - **Tier 4**: Vague JD, potential red flags
+
+### Block H: Draft Application Answers (auto-pipeline only)
+
+Generated when score >= 4.5. Contains draft answers to application form questions:
+- Why are you interested in this role?
+- Why do you want to work at [Company]?
+- Tell us about a relevant project or achievement
+- What makes you a good fit for this position?
+- How did you hear about this role?
+
+Tone: "I'm choosing you" — confident, specific, proof-point driven.
 
 ## Writing Style
 

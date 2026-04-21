@@ -117,8 +117,8 @@ dashboard/
 ├── main.go             # Entry point
 ├── go.mod              # Dependencies
 └── internal/
-    ├── data/career.go  # Data models
-    ├── model/          # Domain models
+    ├── data/career.go  # Data access
+    ├── model/career.go  # Domain models
     ├── theme/           # Catppuccin theme
     └── ui/screens/
         ├── pipeline.go  # Main pipeline view

@@ -49,13 +49,14 @@
          ↓
 3. Classify: Detect archetype (1 of N types)
          ↓
-4. Evaluate: 6 blocks (A-F)
+4. Evaluate: 7 blocks (A-G)
    - A: Role summary
    - B: CV match (gaps + mitigation)
    - C: Level & strategy
    - D: Comp research (WebSearch)
    - E: CV personalization plan
    - F: Interview prep (STAR stories)
+   - G: Posting Legitimacy (auto-assessed tier)
          ↓
 5. Score: Weighted average across 10 dimensions (1-5)
          ↓

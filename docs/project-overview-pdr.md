@@ -43,7 +43,7 @@ Portfolio: [cv-santiago](https://github.com/santifer/cv-santiago)
 | Job offers evaluated | 740+ |
 | Tailored CVs generated | 100+ |
 | Portal APIs supported | 3 (Greenhouse, Ashby, Lever) |
-| Language modes | 5 (EN, DE, FR, JA, ES) |
+| Language modes | 7 (EN, DE, FR, JA, ES, PT, RU) |
 | Canonical states | 8 |
 | Test checks (CI) | 63+ |
 
@@ -72,7 +72,7 @@ Two layers enforce separation between user data and system code.
 |----|-------------|----------|
 | FR-1 | Extract job description from URL or raw text | Required |
 | FR-2 | Classify role archetype (1 of N types) | Required |
-| FR-3 | Evaluate across 6 blocks (A-F): Role Summary, CV Match, Level, Comp, Personalization, Interview | Required |
+| FR-3 | Evaluate across 7 blocks (A-G): Role Summary, CV Match, Level, Comp, Personalization, Interview, Posting Legitimacy | Required |
 | FR-4 | Calculate weighted score (1-5 scale) across 10 dimensions | Required |
 | FR-5 | Generate ATS-optimized PDF from template | Required |
 | FR-6 | Track applications in markdown table | Required |

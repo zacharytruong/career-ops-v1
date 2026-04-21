@@ -32,7 +32,7 @@
 |---------|---------|
 | `modes/{lang}/` | `modes/de/`, `modes/fr/` |
 | `modes/{mode}.md` | `modes/offer.md`, `modes/scan.md` |
-| `modes/_{type}.md` | `modes/_shared.md`, `modes/_profile.md` |
+| `modes/_{type}.md` | `modes/_shared.md`, `modes/_profile.md`, `modes/_websearch-routing.md`, `modes/_profile.template.md` |
 
 ## Code Conventions
 
@@ -152,8 +152,23 @@ Source: `templates/states.yml`
 - C: Level & Strategy
 - D: Comp & Demand
 - E: Personalization Plan
-- F: Interview Prep
+- F: Interview Prep (STAR+R stories)
 - G: Posting Legitimacy (auto-added)
+
+## Language Modes
+
+Each language directory contains market-specific mode files with localized vocabulary:
+
+| Directory | Language | Market Focus | Mode Files |
+|-----------|----------|--------------|------------|
+| `de/` | German | DACH | `angebot.md`, `bewerben.md`, `pipeline.md`, `_shared.md` |
+| `fr/` | French | France/Belgium/Switzerland | `offre.md`, `postuler.md`, `pipeline.md`, `_shared.md` |
+| `ja/` | Japanese | Japan | `kyujin.md`, `oubo.md`, `pipeline.md`, `_shared.md` |
+| `es/` | Spanish | Spain/LatAm | `aplicar.md`, `oferta.md`, `pipeline.md`, `_shared.md` |
+| `pt/` | Portuguese | Brazil/Portugal | `aplicar.md`, `oferta.md`, `pipeline.md`, `_shared.md` |
+| `ru/` | Russian | Russia/CIS | `apply.md`, `oferta.md`, `interview-prep.md`, `pipeline.md`, `_shared.md` |
+
+## Pipeline Integrity Rules
 
 ## Pipeline Integrity Rules
 

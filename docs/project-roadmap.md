@@ -34,10 +34,10 @@ The core job search pipeline is operational. Active development focuses on expan
 - [ ] Follow-up cadence tracker
 - [ ] Interview prep mode improvements
 
-### Phase 3: Expansion (Planned)
+### Phase 3: Expansion (In Progress)
 
-- [ ] Portuguese (PT) and Russian (RU) modes completion
-- [ ] Dashboard TUI improvements (filters, sorting, preview)
+- [x] Portuguese (PT) and Russian (RU) modes completion
+- [x] Dashboard TUI (Go + Bubble Tea)
 - [ ] Improved CV template customization options
 - [ ] LinkedIn outreach integration improvements
 
