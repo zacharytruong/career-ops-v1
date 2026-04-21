@@ -21,11 +21,11 @@ If the input is a **URL** (not pasted JD text), follow this strategy to extract 
 
 ## Step 1 — A-G Evaluation
 
-Execute exactly like the `oferta` mode (read `modes/oferta.md` for all blocks A-F + Block G Posting Legitimacy).
+Execute exactly like the `offer` mode (read `modes/offer.md` for all blocks A-F + Block G Posting Legitimacy).
 
 ## Step 2 — Save Report .md
 
-Save the complete evaluation to `reports/{###}-{company-slug}-{YYYY-MM-DD}.md` (see format in `modes/oferta.md`).
+Save the complete evaluation to `reports/{###}-{company-slug}-{YYYY-MM-DD}.md` (see format in `modes/offer.md`).
 Include Block G in the saved report. Add `**Legitimacy:** {tier}` to the report header.
 
 ## Step 3 — Generate PDF

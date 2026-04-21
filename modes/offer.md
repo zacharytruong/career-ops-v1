@@ -1,4 +1,4 @@
-# Mode: oferta -- Complete A-G Evaluation
+# Mode: offer -- Complete A-G Evaluation
 
 ## Web Search Routing
 

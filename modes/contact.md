@@ -1,4 +1,4 @@
-# Mode: contacto -- LinkedIn Power Move
+# Mode: contact -- LinkedIn Power Move
 
 ## Web Search Routing
 
