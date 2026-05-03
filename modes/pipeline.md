@@ -24,12 +24,12 @@ Process URLs of accumulated offers in `data/pipeline.md`. The user adds URLs whe
 ## pipeline.md Format
 
 ```markdown
-## Pendientes
+## Pending
 - [ ] https://jobs.example.com/posting/123
 - [ ] https://boards.greenhouse.io/company/jobs/456 | Company Inc | Senior PM
 - [!] https://private.url/job — Error: login required
 
-## Procesadas
+## Processed
 - [x] #143 | https://jobs.example.com/posting/789 | Acme Corp | AI PM | 4.2/5 | PDF ✅
 - [x] #144 | https://boards.greenhouse.io/xyz/jobs/012 | BigCo | SA | 2.1/5 | PDF ❌
 ```
